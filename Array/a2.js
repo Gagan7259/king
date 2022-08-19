@@ -5,4 +5,4 @@ console.log(h);
 
  let gagan={  id:3243242,name:"Ryan", rating:5  }
      console.log(gagan);
-     console.log();
+     gagan.pop(2);
