@@ -1,4 +1,4 @@
 function display(){
-    console.log('good morning');
+    console.log("good morning");
     alert("pora rey")
 }
