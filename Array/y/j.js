@@ -1,4 +1,4 @@
 function displayonblur() {
-    document.getElementById("four").style.backgroundColor="green"
+    document.getElementById("four")
   }
   
