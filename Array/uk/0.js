@@ -1,3 +1,4 @@
 function display(){
     console.log("good morning");
-    alert("")
+    alert("u stupid")
+}

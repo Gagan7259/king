@@ -1,5 +1,4 @@
-function changecolor() {
-    document.getElementById('abc').style.backgroundColor = "green"
-    document.get
+function displayonblur() {
+    document.getElementById("four").style.backgroundColor="green"
   }
   
